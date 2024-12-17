@@ -79,7 +79,7 @@ const AllProducts = () => {
 const InstagramShowcase = () => {
   return (
     <section className="container mx-auto px-4 py-16 bg-gray-50">
-      {/* Newsletter Section */}
+      {/* Newsletter Section  */}
       <div className="text-center mb-12">
         <h2 className="text-2xl md:text-3xl font-semibold text-gray-900 mb-6">
           Or Subscribe To The Newsletter
